@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f6f8fb"/>
+  <rect x="70" y="56" width="1060" height="648" rx="24" fill="#ffffff" stroke="#d7e0ea"/>
+  <rect x="110" y="100" width="980" height="160" rx="18" fill="#17324d"/>
+  <text x="146" y="150" fill="#b7ddff" font-family="Arial, sans-serif" font-size="22">CUPL Guangming Journalism Notice Watch</text>
+  <text x="146" y="205" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="700">法大光明新闻传播学院通知公告，每天自动归档</text>
+  <rect x="870" y="126" width="170" height="92" rx="16" fill="#c7502f"/>
+  <text x="895" y="158" fill="#ffe8df" font-family="Arial, sans-serif" font-size="18">当前收录</text>
+  <text x="895" y="205" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">90</text>
+  <rect x="110" y="295" width="690" height="52" rx="13" fill="#f0f4f8" stroke="#ccd7e5"/>
+  <text x="138" y="328" fill="#65758b" font-family="Arial, sans-serif" font-size="19">搜索标题、摘要或栏目...</text>
+  <rect x="825" y="295" width="265" height="52" rx="13" fill="#f0f4f8" stroke="#ccd7e5"/>
+  <text x="850" y="328" fill="#24364f" font-family="Arial, sans-serif" font-size="19">全部栏目</text>
+  <rect x="110" y="382" width="980" height="94" rx="18" fill="#ffffff" stroke="#dce6f2"/>
+  <text x="142" y="420" fill="#1e2f47" font-family="Arial, sans-serif" font-size="24" font-weight="700">光明新闻传播学院2026年研究生新生奖学金获奖学生名单公示</text>
+  <text x="142" y="454" fill="#6b7a90" font-family="Arial, sans-serif" font-size="18">2026-06-30 · 通知公告 · 公开来源归档</text>
+  <rect x="110" y="502" width="980" height="94" rx="18" fill="#ffffff" stroke="#dce6f2"/>
+  <text x="142" y="540" fill="#1e2f47" font-family="Arial, sans-serif" font-size="24" font-weight="700">不负青春之约 共赴光明未来——学院举办2026届毕业典礼</text>
+  <text x="142" y="574" fill="#6b7a90" font-family="Arial, sans-serif" font-size="18">学院新闻 · 支持 JSON / CSV 导出</text>
+</svg>
